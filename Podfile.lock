@@ -1,0 +1,18 @@
+PODS:
+  - HydraAsync (1.2.1)
+  - Kingfisher (4.6.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - HydraAsync
+  - Kingfisher (~> 4.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  HydraAsync: 8f2ab62d57e140b4ca587ae0f66e1eb04e8e6965
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: dbda80f46cf1e7c0e5acae48ec5cc46a018426c3
+
+COCOAPODS: 1.4.0.rc.1
